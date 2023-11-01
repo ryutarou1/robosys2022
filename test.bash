@@ -1,6 +1,7 @@
 #!/bin/bash
-# SPDX-FileCopyrightText: 2022 Ryuichi Ueda
+# SPDX-FileCopyrightText: 2023 Ryutaro Kanno
 # SPDX-License-Identifier: BSD-3-Clause
+#!/bin/bash -xv
 ng () {
       echo NG at Line $1
       res=1
