@@ -13,7 +13,7 @@ res=0
   [ "${out}" = 15 ] || ng ${LINENO}
 
   ### STRANGE INPUT ###
-  out=$(echo あ | ./plus)
+  out=$(echo あ | ./pluss)
   [ "$?" = 1 ]      || ng ${LINENO}
   [ "${out}" = "" ] || ng ${LINENO}
 
