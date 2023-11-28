@@ -46,7 +46,8 @@ Python 3.7~3.10
 
 ## ライセンス表示
 *このソフトウェアパッケージは三条項BSDライセンスのもと、再頒布および使用が許可されています。
-
+*このパッケージのコードは、下記のスライド（CC-BY-SA 4.0by Ryuich Ueda)のものを、本人の許可を得て自身の著作したものです。
+　1. 
 *This Softwere Package allowed Redistribution and Use by GPL 3.0
 ©2023 kanno ryutaro
 
