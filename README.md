@@ -76,8 +76,8 @@ Python 3.7~3.10
 * このソフトウェアパッケージは三条項BSDライセンスのもと、再頒布および使用が許可されています。
 
 * このパッケージのコードは、下記のスライド（CC-BY-SA 4.0by Ryuich Ueda)のものを、本人の許可を得て自身の著作したものです。
-	* [ryuichiueda/my_slides robosys_2022/lesson5.md] (https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-	* [ryuichiueda/my_slides robosys_2022/lesson7.md] (https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+	* [ryuichiueda/my_slides robosys_2022/lesson5.md] (https://github.com/ryuichiueda/my_slides/blob/master/robosys_2022/lesson5.md)
+	* [ryuichiueda/my_slides robosys_2022/lesson7.md] (https://github.com/ryuichiueda/my_slides/blob/master/robosys_2022/lesson7.md)
 
 * This Softwere Package allowed Redistribution and Use by GPL 3.0
 ©2023 kanno ryutaro
