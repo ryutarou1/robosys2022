@@ -69,7 +69,7 @@ Python 3
 ## テスト環境
 Ubuntu 20.04.6 LTS (GNU/Linux 5.10.102.1-microsoft-standard-WSL2 x86_64)
 
-## テスト環境
+## 必要なソフトウェア
 Python 3.7~3.10
 
 ## ライセンス表示
