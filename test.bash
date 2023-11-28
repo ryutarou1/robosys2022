@@ -1,6 +1,6 @@
 #!/bin/bash -xv
 # SPDX-FileCopyrightText: 2023 kanno ryutaro
-# SPDX-License-Identifier: BSD-3-Clause
+# SPDX-License-Identifier: GPL-3.0-or-later
 
 ng () {
       echo NG at Line $1
