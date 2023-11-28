@@ -1,5 +1,5 @@
 #!/bin/bash -xv
-# SPDX-FileCopyrightText: 2022 kanno ryutaro
+# SPDX-FileCopyrightText: 2023 kanno ryutaro
 # SPDX-License-Identifier: BSD-3-Clause
 
 ng () {
